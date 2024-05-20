@@ -141,7 +141,7 @@ const CreatePost = () => {
 
 					<ModalFooter>
 						<Button colorScheme='blue' mr={3} onClick={handleCreatePost} isLoading={loading}>
-							Post
+							post regarding the issue
 						</Button>
 					</ModalFooter>
 				</ModalContent>
